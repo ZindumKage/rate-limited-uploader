@@ -1,4 +1,4 @@
-# 🚀 Rate Limited File Uploader API
+#  Rate Limited File Uploader API
 
 A production-style Node.js REST API that allows users to upload `.txt` and `.csv` files with built-in rate limiting, streaming file processing, and structured logging.
 
@@ -44,7 +44,7 @@ src/
 ```bash
 git clone "git+https://github.com/ZindumKage/rate-limited-uploader.git"
  
-`cd rate-limited-uploader`
+cd rate-limited-uploader
 ```
 ### 2. Install dependencies
 ```bash
