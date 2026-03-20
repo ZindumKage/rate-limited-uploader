@@ -118,6 +118,8 @@ You can deploy this API using:
 
 ---
 
+Live API: https://rate-limited-uploader.onrender.com/api/upload
+
 
 ##  Author
 
