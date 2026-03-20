@@ -41,19 +41,19 @@ src/
 ## Setup Instructions
 
 ### 1. Clone the repository
-
-`git clone "git+https://github.com/ZindumKage/rate-limited-uploader.git"`
+```bash
+git clone "git+https://github.com/ZindumKage/rate-limited-uploader.git"
  
 `cd rate-limited-uploader`
-
+```
 ### 2. Install dependencies
-
-`npm install`
-
+```bash
+npm install
+```
 ### 3. Run the server
-
-`npm run dev`
-
+```bash
+npm run dev
+```
 Server runs on:  
 http://localhost:2000
 
